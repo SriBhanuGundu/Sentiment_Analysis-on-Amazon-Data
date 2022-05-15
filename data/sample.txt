@@ -1,0 +1,6 @@
+## Upload csv files
+"DatafinitiElectronicsProductData.csv" , 
+"Amazon_Products.csv" and 
+"test.csv" ("train.csv") 
+stored in the path as per the code
+
